@@ -15,7 +15,7 @@ public class CarrinhoDeCompras {
 	  }
 	//Metodo p/Calcular valor total dos Itens utilizando Streams API
 	public double calcularValorTotal() {
-		if(itemList.isEmpty()) {
+		if(itemList.isEmpty()) {  
 			throw new RuntimeException("A lista esta vazia!");
 		}
 		return itemList.stream().mapToDouble(
