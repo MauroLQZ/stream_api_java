@@ -1,4 +1,4 @@
-package stream_api_java;
+package programacao_declarativa;
 
 import java.util.ArrayList;
 import java.util.List;

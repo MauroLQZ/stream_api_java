@@ -1,4 +1,4 @@
-package stream_api_java;
+package programacao_declarativa;
 
 /** Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço
  *  e quantidade.*/
